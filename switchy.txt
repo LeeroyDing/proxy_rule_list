@@ -1,3 +1,5 @@
+#BEGIN
+
 [Wildcard]
 
 *://info.zb.qq.com/*
@@ -195,3 +197,5 @@ http://www.cncrk.com/downinfo/62447.html
 http://xiazai.zol.com.cn/detail/44/431934.shtml
 http://www.dramaq.com.tw/unblock-youku.php
 http://www.techorz.com/software/chrome-extension-unblock-youku/
+
+#END
